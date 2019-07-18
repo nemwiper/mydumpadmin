@@ -1,6 +1,6 @@
 ## Advance MySQL Database Backup Script
 
-In this repository, you will get an advance MySQL database backup script with mutiple options. This script allows you to backup databases on local and upload to FTP, SFTP and S3 bucket. 
+In this repository, you will get an advance MySQL database backup script with mutiple options. This script allows you to backup databases on local and upload to FTP, SFTP, RSYNC and S3 bucket. Rotating backup supported.
 
 ### Clone this repository
 
